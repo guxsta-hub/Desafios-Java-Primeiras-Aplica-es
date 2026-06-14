@@ -1,5 +1,5 @@
 package DesafiosAula2;
-
+//Classe que faz cálculo da média
 public class Media {
     public static void main(String[] args) {
         int numero1 = 50;
