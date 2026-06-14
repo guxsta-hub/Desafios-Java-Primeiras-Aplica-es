@@ -1,5 +1,5 @@
 package DesafiosAula3;
-//Classe que diz se é positivo ou negativo
+//Classe que diz se é o número positivo ou negativo
 import java.util.Scanner;
 
 public class NumeroPositivoNegativo {
