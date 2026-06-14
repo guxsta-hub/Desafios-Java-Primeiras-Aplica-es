@@ -1,5 +1,5 @@
 package DesafiosAula3;
-
+//Classe que faz cálculo fatorial
 import java.util.Scanner;
 
 public class Fatorial {
