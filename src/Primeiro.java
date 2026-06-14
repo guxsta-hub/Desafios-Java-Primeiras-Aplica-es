@@ -1,5 +1,3 @@
-package DesafiosAula1;
-
 public class Primeiro {
     public static void main(String[] args) {
         System.out.println("Hello world!");
